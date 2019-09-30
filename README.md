@@ -6,4 +6,4 @@ Lists:
 - Self Destruction Unix
 - Youtube Encryptor Chars
 - Animism Internet Privacy
-- Sqlmap Black and White
+- 
