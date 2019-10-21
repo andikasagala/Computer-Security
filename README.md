@@ -7,3 +7,4 @@ Lists:
 - Youtube Encryptor Chars
 - Pluto Internet Privacy
 - T & J Anti Trust
+- All Source Domains and IPs Blocker
